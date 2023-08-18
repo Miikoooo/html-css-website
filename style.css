@@ -1,0 +1,42 @@
+
+.start {
+    background-color: #6528F7;
+    padding: 200px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#p-start{
+    font-family: 'Libre Baskerville', serif;
+    color: yellow;
+}
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+}
+.about {
+    background-color: #A076F9;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    
+}
+
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.resume {
+    background-color: #D7BBF5;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#img-resume {
+    border-radius: 25%;
+}
+.contact {
+    background-color: #EDE4FF;
+    font-family: 'Ubuntu', sans-serif;
+}
+.footer {
+    font-family: 'Ubuntu', sans-serif;
+}
